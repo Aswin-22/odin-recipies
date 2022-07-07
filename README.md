@@ -5,4 +5,3 @@ The dishes are:
 *]Ramen
 *]Dango
 *]onigiri
-*]Yakiniku
